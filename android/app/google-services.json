@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "192497052103",
+    "firebase_url": "https://bornomala-shikhon.firebaseio.com",
+    "project_id": "bornomala-shikhon",
+    "storage_bucket": "bornomala-shikhon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192497052103:android:8facafd89cf49e248dd1e2",
+        "android_client_info": {
+          "package_name": "com.creativecodersonfiverrafran.bornomalashikhon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192497052103-g1njn2tu2i9qlgqadf7bl3ch205sduqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGjYQ9qetPLl7Mss_9d_gaK1uRCh0u634"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192497052103-g1njn2tu2i9qlgqadf7bl3ch205sduqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
